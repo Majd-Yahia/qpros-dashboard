@@ -14,7 +14,7 @@ This project has a minimal dashboard with nextjs for user authentication and is 
 # Installation
 - Clone the git repo
 ```
-git clone https://github.com/Majd-Yahia/qpros-authentication
+git clone https://github.com/Majd-Yahia/qpros-dashboard
 ```
 - Go into the directory
 ```
