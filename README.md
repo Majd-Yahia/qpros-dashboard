@@ -1,5 +1,5 @@
 # User Dashboard
-This project has a minimal dashboard with nextjs for user authentication and is used with [Server Side](https://github.com/Majd-Yahia/qpros-server)
+This project has a minimal dashboard with NextJs for user authentication and is used with [Server Side](https://github.com/Majd-Yahia/qpros-server)
 # Table of Contents
 - Prerequisites
 - Installation
@@ -9,7 +9,7 @@ This project has a minimal dashboard with nextjs for user authentication and is 
 
 # Prerequisites
 - [Node v18+](https://nodejs.org/en/download)
-- [Next 13](https://nuxt.com/docs)
+- [Next 13](https://nextjs.org/docs)
 
 # Installation
 - Clone the git repo
@@ -18,7 +18,7 @@ git clone https://github.com/Majd-Yahia/qpros-dashboard
 ```
 - Go into the directory
 ```
-cd qpros-authentication
+cd qpros-dashboard
 ```
 - Donwload node packages
 ```
